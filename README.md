@@ -8,8 +8,8 @@
 
  <div>
   <a href="https://github.com/lm-costa">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lm-costa&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lm-costa&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="160em" width="50em" src="https://github-readme-stats.vercel.app/api?username=lm-costa&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="160em" width="60em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lm-costa&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 
 <div style="display: inline_block"><br>
