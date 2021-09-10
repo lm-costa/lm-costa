@@ -1,9 +1,15 @@
 ## Oii! Eu sou o Luis Miguel da Costa
 
-- 📚 Atualmente eu estudo Eng. Agronômica
+- 📚 Atualmente eu estudo Eng. Agronômica (UNESP/FCAV)
 - 🔨 Trabalho com mudanças climáticas com foco em CO<sub>2</sub>
 - ❔ Minhas áreas de interesses são: Big data; Processamento de dados; Data Science; Sensoriamento remoto; Estatistica; Mudanças Climáticas
 
+  ##
+  
+## Atuação
+Bolsita de Iniciação Ciêntifica pela [FAPESP](https://bv.fapesp.br/pt/pesquisador/708249/luis-miguel-da-costa/) (2020- atualmente) 
+<p> Vice-presidente do Diretório Acadêmico Fernando Costa (2020)
+  
   ##
 
  <div>
