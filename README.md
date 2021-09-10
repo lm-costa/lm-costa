@@ -2,7 +2,7 @@
 
 - 📚 Atualmente eu estudo Eng. Agronômica (UNESP/FCAV)
 - 🔨 Trabalho com mudanças climáticas com foco em CO<sub>2</sub>
-- ❔ Minhas áreas de interesses são: Big data; Processamento de dados; Data Science; Sensoriamento remoto; Estatistica; Mudanças Climáticas
+- ❔ **Minhas áreas de interesses são**: Big data; Processamento de dados; Data Science; Sensoriamento remoto; Estatistica; Mudanças Climáticas
 
   ##
   
