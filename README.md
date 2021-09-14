@@ -7,8 +7,8 @@
   ##
   
 ## Atuação
--Bolsita de Iniciação Ciêntifica pela [FAPESP](https://bv.fapesp.br/pt/pesquisador/708249/luis-miguel-da-costa/) (2020- atualmente) 
--Vice-presidente do Diretório Acadêmico Fernando Costa (2020)
+- Bolsita de Iniciação Ciêntifica pela [FAPESP](https://bv.fapesp.br/pt/pesquisador/708249/luis-miguel-da-costa/) (2020- atualmente) 
+- Vice-presidente do Diretório Acadêmico Fernando Costa (2020)
   
   ##
 
