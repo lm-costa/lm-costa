@@ -4,14 +4,13 @@
 - 🔨 My research is about climate change with focus on CO<sub>2</sub>
 - ❔ **My fields of interest are**: Big data; Data Processing; Data Science; Remote Sensing; Statistic; Climate Change; SIF
 
-  ##
   
 ## Activity
 - Scientific Initiation Scholarship by [FAPESP](https://bv.fapesp.br/en/bolsas/190947/spatial-and-temporal-variability-of-atmospheric-co2-in-the-metropolitan-region-of-ribeirao-preto-sao/) (2020- current)
 - International Fellow Research Internship by [FAPESP](https://bv.fapesp.br/en/bolsas/197773/evaluation-of-different-approaches-for-the-retrieval-of-sun-induced-fluorescence/), held at the University of Milan Bicocca 
-- Former Vice President of the Fernando Costa Academic Directory, 2019/
+- Former Vice President of the Fernando Costa Academic Directory, 2019/2020
   
-  ##
+##
 
  <div>
   <a href="https://github.com/lm-costa">
