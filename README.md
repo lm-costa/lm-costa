@@ -1,14 +1,15 @@
-## Oii! Eu sou o Luis Miguel da Costa
+## Hi! My name is Luis
 
-- 📚 Atualmente estudo Eng. Agronômica (UNESP/FCAV)
-- 🔨 Trabalho com mudanças climáticas com foco em CO<sub>2</sub>
-- ❔ **Minhas áreas de interesses são**: Big data; Processamento de dados; Data Science; Sensoriamento remoto; Estatistica; Mudanças Climáticas
+- 📚 Undergraduating in Agronomic Engineering (UNESP/FCAV) (2019-current)
+- 🔨 My research is about climate change with focus on CO<sub>2</sub>
+- ❔ **My fields of interest are**: Big data; Data Processing; Data Science; Remote Sensing; Statistic; Climate Change; SIF
 
   ##
   
-## Atuação
-- Bolsita de Iniciação Ciêntifica pela [FAPESP](https://bv.fapesp.br/pt/pesquisador/708249/luis-miguel-da-costa/) (2020- atualmente) 
-- Vice-presidente do Diretório Acadêmico Fernando Costa (2020)
+## Activity
+- Scientific Initiation Scholarship by [FAPESP](https://bv.fapesp.br/en/bolsas/190947/spatial-and-temporal-variability-of-atmospheric-co2-in-the-metropolitan-region-of-ribeirao-preto-sao/) (2020- current)
+- International Fellow Research Internship by [FAPESP](https://bv.fapesp.br/en/bolsas/197773/evaluation-of-different-approaches-for-the-retrieval-of-sun-induced-fluorescence/), held at the University of Milan Bicocca 
+- Former Vice President of the Fernando Costa Academic Directory, 2019/
   
   ##
 
