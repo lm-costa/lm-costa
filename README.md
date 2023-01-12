@@ -13,9 +13,7 @@
 ##
 
  <div>
-  <a href="https://github.com/lm-costa">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=lm-costa&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lm-costa&layout=compact&langs_count=7&theme=synthwave"/>
+  ![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=lm-costa&show_icons=true&theme=dracula)
 </div>
 
 <div style="display: inline_block"><br>
