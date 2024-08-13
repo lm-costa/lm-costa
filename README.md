@@ -6,7 +6,7 @@
 
   
 ## Activity
-- Scientific Initiation Scholarship by [FAPESP](https://bv.fapesp.br/en/bolsas/190947/spatiotemporal-variability-of-atmospheric-co2-in-the-brazilian-southeast-a-perspective-with-remote-s/) (2020- current)
+- Scientific Initiation Scholarship by [FAPESP](https://bv.fapesp.br/en/bolsas/190947/spatiotemporal-variability-of-atmospheric-co2-in-the-brazilian-southeast-a-perspective-with-remote-s/) (2020- 2023)
 - International Fellow Research Internship by [FAPESP](https://bv.fapesp.br/en/bolsas/197773/evaluation-of-different-approaches-for-the-retrieval-of-sun-induced-fluorescence/), held at the University of Milan Bicocca (UNIMIB)
 - Research internship by [FAPESP](https://bv.fapesp.br/en/bolsas/208121/hydrological-causes-and-consequences-of-environmental-changes-in-wetlands-in-the-federal-distric/), held at University of Brasilia (UnB) 
   
